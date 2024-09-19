@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am currently working on web development.<br>I am currently working c++ <br>
+I am currently working on web development.<br>I am currently learning c++ <br>
 
 
 ## 🌐 Socials:

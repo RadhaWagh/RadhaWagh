@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am currently working on web development.<br>I am currently learning java. <br>
+I am currently working on web development.<br>I am currently learning javascript. <br>
 
 
 ## 🌐 Socials:
